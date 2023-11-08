@@ -1,0 +1,1905 @@
+2023-05-18T13:51:22.182 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_call","params":[{"data":"0xb7ab4db5","to":null},"latest"]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:51:42.493 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:51:44.675 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:51:45.120 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:52:25.573 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:53:07.665 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:53:08.596 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:53:12.188 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:54:09.682 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:54:10.509 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:54:29.502 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:54:33.509 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:55:12.082 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:55:14.830 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:55:55.140 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:56:16.077 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:56:33.000 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:56:40.224 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:57:00.600 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:57:02.091 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T13:58:04.107 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:08:29.882 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_call","params":[{"data":"0xb7ab4db5","to":null},"latest"]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:08:51.521 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:08:51.708 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:08:51.810 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:10:12.300 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:10:15.301 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:10:17.989 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:10:19.544 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:10:57.566 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:11:19.154 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:11:42.087 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:12:03.561 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:12:33.804 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:12:44.866 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:12:48.790 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:13:05.427 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:13:45.923 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:14:12.428 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:14:28.599 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:14:33.800 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:14:34.956 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:14:54.228 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:15:34.583 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:16:01.967 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:16:17.239 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:16:17.676 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:16:38.427 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:16:45.995 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:17:39.402 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:18:00.612 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:18:05.851 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:18:23.569 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:18:27.410 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:19:12.265 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:19:49.788 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:20:04.109 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:20:11.747 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:20:18.983 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:20:31.678 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:21:18.355 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:21:42.975 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:22:02.605 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:22:07.056 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:22:19.861 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:22:25.163 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:23:06.463 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:23:41.518 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:24:07.449 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:24:10.127 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:24:15.211 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:24:23.039 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:25:14.733 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:25:40.941 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:25:59.272 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:26:05.148 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:26:12.156 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:26:25.427 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:27:01.860 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:27:26.582 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:30:51.461 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_call","params":[{"data":"0xb7ab4db5","to":null},"latest"]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:31:12.375 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:31:13.863 application=ethereum_jsonrpc fetcher=pending_transaction [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":1,"jsonrpc":"2.0","method":"txpool_content","params":[]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:31:14.367 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:31:54.248 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:32:17.649 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:32:39.802 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:32:40.788 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:32:44.582 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:32:48.282 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:33:20.815 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:33:45.386 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:34:07.990 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:34:29.324 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:34:36.185 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:35:07.810 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:35:10.161 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:35:34.413 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:36:02.144 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:36:11.152 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:36:33.781 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:36:39.028 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:37:13.151 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:37:27.266 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:37:56.653 application=ethereum_jsonrpc fetcher=internal_transaction count=4 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:38:06.971 application=ethereum_jsonrpc fetcher=internal_transaction count=9 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:38:18.076 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:38:53.175 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:39:02.178 application=ethereum_jsonrpc fetcher=internal_transaction count=4 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:39:30.560 application=ethereum_jsonrpc fetcher=internal_transaction count=7 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:39:42.203 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:40:14.296 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:40:24.180 application=ethereum_jsonrpc fetcher=internal_transaction count=8 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:40:33.533 application=ethereum_jsonrpc fetcher=internal_transaction count=7 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:41:02.700 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:41:18.649 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:41:48.730 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:41:56.099 application=ethereum_jsonrpc fetcher=internal_transaction count=6 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:42:26.046 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:42:45.251 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:42:52.990 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:43:18.123 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:43:26.578 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:43:46.686 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:44:15.167 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:44:44.532 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-05-18T14:44:51.340 application=ethereum_jsonrpc fetcher=internal_transaction count=10 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://host.docker.internal:8545/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"debug_traceTransaction","params":["0xeebd0cf19a26dbbfc2d55aa8e334b99d815fad7e4c7ae1611beadd91b0da0663",{"timeout":"5s","tracer":"callTracer"}]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
