@@ -27,8 +27,7 @@ services:
       - db:database
     environment:
         ETHEREUM_JSONRPC_VARIANT: 'geth'
-<<<<<<< HEAD
-        ETHEREUM_JSONRPC_HTTP_URL: http://116.203.58.194:8545/
+        ETHEREUM_JSONRPC_HTTP_URL: http://65.109.159.155:8545/
         DATABASE_URL: postgresql://postgres:@host.docker.internal:7432/blockscout?ssl=false
         ECTO_USE_SSL: 'false'
         SECRET_KEY_BASE: '56NtB48ear7+wMSf0IQuWDAAazhpb31qyc7GiyspBP2vh7t5zlCsF5QDv76chXeN'
@@ -41,9 +40,6 @@ services:
     extends:
       file: ./services/docker-compose-smart-contract-verifier.yml
       service: smart-contract-verifier
-=======
->>>>>>> 3a914f0063daaeafaadd843546e34acf39fdf37f
-
   visualizer:
     extends:
       file: ./services/docker-compose-visualizer.yml
